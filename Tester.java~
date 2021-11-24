@@ -1,0 +1,9 @@
+public class Tester{
+  public static void main(String [] args){
+    WRM w=new WRM();
+    w.registerPatient(new Patient("murad",22,"A+");
+                      w.registerPatient(new Patient("niloy",22,"o+");
+                                        w.registerPatient(new Patient("tamal",21,"B+");
+                                                          w.registerPatient(new Patient("nafis",21,"A+");
+                                                                            }
+}
